@@ -124,21 +124,6 @@ or simply use the the desktop GitHub to clone
 
 **Alternative : Add a Local Git Repository**
 
-If you downloaded a zip archive, follow these steps:
-
-1. Decompress the zip archive.
-
-2. Open a terminal and navigate to the folder.
-
-3. Run these commands:
-
-```
-git init
-git add --all
-git commit -m "Initial local repo commit on Windows"
-git remote add origin git@code.vt.edu:pid/quadra.git
-git remote update
-```
 
 
 
