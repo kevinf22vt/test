@@ -107,6 +107,7 @@ Sources: Other Git hosting services, local Git repositories, zip files, SVN repo
 `
 * Join an existing repository 
 `
+
 Join as a collaborator
 `
 **4. Learning the key terminology**
@@ -118,7 +119,7 @@ git clone --depth 1 --single-branch --branch Quadra2.3 git@code.vt.edu:rac/quadr
 or simply use the the desktop GitHub to clone
 * Pull 
 
-* Push
+* Pusha
 
 * Track changes 
 
