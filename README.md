@@ -10,7 +10,7 @@ Our most valuable asset, however, is our commitment and proven ability to teach 
 
 A course that introduces the students to Matlab programming with application to numerical methods, Aerospace/Ocean vehicle simulation and feedback control.  Additionally, Introduction to version control and prompt engineering is also provided. Adding to the arsenal of essential skills for the mordern world while preparing for the future that lies ahead. 
 
-
+f
 **Course Description (Fall 2024)**
 Matlab programming with application to numerical methods, Aerospace/Ocean vehicle simulation and feedback control.  Introduction to version control and prompt engineering.    
 
