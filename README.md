@@ -30,19 +30,16 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 **Key aspects of using GitHub**
 
 * Overview of Github features
-    - Projects
 
-        `Organize tasks, assign responsibilities, and track progress using project boards.`
-
-    - Branches
-
-        `Create isoltaed features / a standalone version of your code to be merged later with the main branch`
-
-    - Code
+    - [Code]
 
         ` View your branch code in the repository as GitHub directories`
 
-    - Issues
+        - [Branches]
+
+        `Create isoltaed features / a standalone version of your code to be merged later with the main branch`
+
+    - [Issues]
 
         - Labels
 
@@ -60,11 +57,15 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 
         `Automation of workflow, In a sense it is a routine that takes place for certain action`
 
-    - Security 
+    - [Projects]
+
+        `Organize tasks, assign responsibilities, and track progress using project boards`
+
+    - [Security]
 
         `Security protocols can be setup here`
 
-    - Insights 
+    - [Insights]
 
         `Statistics of your Git repository`
 
@@ -137,7 +138,7 @@ Join as a collaborator
 * Cloning
 To clone this branch, use this command:
 ```
-https://github.com/kevinf22vt/test.git
+https://github.com/kevinf22vt/curvefitdemo.git
 ```
 or simply use the the desktop GitHub to 
 
@@ -148,6 +149,8 @@ or simply use the the desktop GitHub to
 * Push
 
 * Track changes 
+
+[Alternatively](https://github.com/joshnh/Git-Commands)
 
 
 
