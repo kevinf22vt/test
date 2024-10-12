@@ -65,18 +65,11 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 
 ## Contents of root directory
 
-* `dist` distribution directory - executable and support files
-	* `QUADRA.exe` - Python-based QUADRA calculation "engine" for Windows
-	* `data.xlxs` - Default input case file for aircraft data and flight path and output of key results from most recent QUADRA run
-	* `Copyright.txt` - Copyright statement and license agreement
-	* `config` directory - configuration data files for QUADRA, e.g., Population Data
-	* `manuals` directory - Theoretical, User's, and Applications Manuals
-* `src` directory - source code files
-* `test` directory - regression test cases and script
+* `Curvefit.m` script - Containing the MATLAB script to access the `idealgas_regression.m` function
+* `idealgas_regression.m` function - Curve fit function created according to HW5 Specifications
 * `README.md` - This file
 
 # Git Setup Guide
-
 
 
 **1. Setup GitHub account**
@@ -86,11 +79,15 @@ Start by creating an [account](https://github.com/signup?ref_cta=Sign+up&ref_loc
 Choose an appropriate username
 `
 * You will be asked a couple of basic questions, choose the free version and then you're done!
-**2. Install Git**
+**2. Install Git (Optional)**
 `
-Download and install Git from [here](https://desktop.github.com/download/).
+Download and install Git from [here](https://desktop.github.com/download/)
+`
+
 To Download automatically
+`
 For Windows click [here](https://central.github.com/deployments/desktop/desktop/latest/win32)
+
 For macOS click [here](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 `
 
@@ -118,9 +115,9 @@ Join as a collaborator
 **4. Learning the key terminology**
 * Cloning
 To clone this branch, use this command:
-`
-git clone --depth 1 --single-branch --branch Quadra2.3 git@code.vt.edu:rac/quadra.git
-`
+```
+https://github.com/kevinf22vt/test.git
+```
 or simply use the the desktop GitHub to clone
 * Pull 
 
