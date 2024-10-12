@@ -31,15 +31,15 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 
 * Overview of Github features
 
-    - [Code]
+    - Code
 
         ` View your branch code in the repository as GitHub directories`
 
-        - [Branches]
+        - [Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 
         `Create isoltaed features / a standalone version of your code to be merged later with the main branch`
 
-    - [Issues]
+    - [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
         - Labels
 
@@ -57,15 +57,15 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 
         `Automation of workflow, In a sense it is a routine that takes place for certain action`
 
-    - [Projects]
+    - [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
         `Organize tasks, assign responsibilities, and track progress using project boards`
 
-    - [Security]
+    - [Security](https://docs.github.com/en/code-security/security-overview/about-security-overview)
 
         `Security protocols can be setup here`
 
-    - [Insights]
+    - Insights
 
         `Statistics of your Git repository`
 
