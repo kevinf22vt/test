@@ -31,30 +31,51 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 
 * Overview of Github features
     - Projects
-        ```Organize tasks, assign responsibilities, and track progress using project boards.```
+
+        `Organize tasks, assign responsibilities, and track progress using project boards.`
+
     - Branches
-        ```Create isoltaed features / a standalone version of your code to be merged later with the main branch```
+
+        `Create isoltaed features / a standalone version of your code to be merged later with the main branch`
+
     - Code
-        ``` View your branch code in the repository as GitHub directories```
+
+        ` View your branch code in the repository as GitHub directories`
+
     - Issues
+
         - Labels
-        ``` Create issues and assign labels to structure the debugging process```
+
+        ` Create issues and assign labels to structure the debugging process`
+
         - Milestones
-        ``` These are essential goals of the project in terms of adding features, removing bugs/resolving issues and restructuring the code```
+
+        ` These are essential goals of the project in terms of adding features, removing bugs/resolving issues and restructuring the code`
+
     - [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-        ```A pull request is a proposal to merge a set of changes from one branch into another```
+
+        `A pull request is a proposal to merge a set of changes from one branch into another`
+
     - [Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
-        ```Automation of workflow, In a sense it is a routine that takes place for certain action```
+
+        `Automation of workflow, In a sense it is a routine that takes place for certain action`
+
     - Security 
-        ```Security protocols can be setup here```
+
+        `Security protocols can be setup here`
+
     - Insights 
+
         `Statistics of your Git repository`
+
 * Structured development
 * Collaboration
-* Cloud storage
-* Ease of access 
 * Tracking changes
 * Fork 
+* Cloud storage
+* Ease of access 
+
+
 
 
 **Course Objectives with GitHub**
@@ -85,11 +106,11 @@ Download and install Git from [here](https://desktop.github.com/download/)
 `
 
 To Download automatically
-`
+
 For Windows click [here](https://central.github.com/deployments/desktop/desktop/latest/win32)
 
 For macOS click [here](https://central.github.com/deployments/desktop/desktop/latest/darwin)
-`
+
 
 **3. Choosing repository**
 
@@ -119,13 +140,14 @@ To clone this branch, use this command:
 https://github.com/kevinf22vt/test.git
 ```
 or simply use the the desktop GitHub to clone
+
 * Pull 
 
-* Pusha
+* Push
 
 * Track changes 
 
-**Alternative : Add a Local Git Repository**
+
 
 
 
