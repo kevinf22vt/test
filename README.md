@@ -139,7 +139,9 @@ To clone this branch, use this command:
 ```
 https://github.com/kevinf22vt/test.git
 ```
-or simply use the the desktop GitHub to clone
+or simply use the the desktop GitHub to 
+
+* clone
 
 * Pull 
 
