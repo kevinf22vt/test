@@ -97,19 +97,24 @@ For macOS click [here](https://central.github.com/deployments/desktop/desktop/la
 **3. Choosing repository**
 
 * To create your own you can 
+
 `
 Create new repository
 `
-* To join an existing repostiory 
+
+* To join an existing repostiory
+ 
 `
 Transfer an existing project to the platform.
 Sources: Other Git hosting services, local Git repositories, zip files, SVN repositories, and other version control systems.
 `
-* Join an existing repository 
-`
 
+* Join an existing repository 
+
+`
 Join as a collaborator
 `
+
 **4. Learning the key terminology**
 * Cloning
 To clone this branch, use this command:
