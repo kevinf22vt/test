@@ -91,6 +91,7 @@ Start by creating an [account](https://github.com/signup?ref_cta=Sign+up&ref_loc
 Choose an appropriate username
 `
 * You will be asked a couple of basic questions, choose the free version and then you're done!
+
 **2. Install Git (Optional)**
 `
 Download and install Git from [here](https://desktop.github.com/download/)
