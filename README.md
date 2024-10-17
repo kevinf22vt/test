@@ -19,6 +19,8 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 * Computer Science (CS) 1044, 1054, or 1064
 * The programming prerequisite assures background in foundational concepts including math and data structures (vectors/arrays), functions, branching, iteration, code design and debugging/test.
 
+# curvefitdemo
+GitHub Demo using HW5 as an example 
 
 **Softwares/Editors**
 * `MATLAB` 
@@ -133,7 +135,7 @@ https://github.com/kevinf22vt/curvefitdemo.git
 ```
 or simply use the the desktop GitHub to 
 
-* clone
+* Clone
 
 * Pull 
 
