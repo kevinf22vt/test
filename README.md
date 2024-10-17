@@ -76,20 +76,10 @@ Matlab programming with application to numerical methods, Aerospace/Ocean vehicl
 * Cloud storage
 * Ease of access 
 
-
-
-
 **Course Objectives with GitHub**
 * Be comfortable programming in GitHub
 * Be comfortable code version tracking, issue debugging and merging.
 * Utilize version control and document repository systems.
-
-
-## Contents of root directory
-
-* `Curvefit.m` script - Containing the MATLAB script to access the `idealgas_regression.m` function
-* `idealgas_regression.m` function - Curve fit function created according to HW5 Specifications
-* `README.md` - This file
 
 # Git Setup Guide
 
@@ -151,6 +141,14 @@ or simply use the the desktop GitHub to
 * Track changes 
 
 [Alternatively](https://github.com/joshnh/Git-Commands)
+
+
+## Contents of root directory
+
+* `Curvefit.m` script - Containing the MATLAB script to access the `idealgas_regression.m` function
+* `idealgas_regression.m` function - Curve fit function created according to HW5 Specifications
+* `README.md` - This file
+
 
 
 
